@@ -184,10 +184,10 @@ const styles = StyleSheet.create({
 ```
 ## 앱 화면 캡처
 
-![IMG_8145](https://user-images.githubusercontent.com/61547778/151236414-a890b135-66cb-4cdc-932a-4d33c10196f1.png)
-![IMG_8144](https://user-images.githubusercontent.com/61547778/151236419-fb27e569-1eba-4a7d-8e64-960b27074517.png)
-![IMG_8143](https://user-images.githubusercontent.com/61547778/151236422-6badfb75-d56a-47a4-a342-d1d35c4520ad.png)
-![IMG_8142](https://user-images.githubusercontent.com/61547778/151236431-9fb3e511-b7ac-4b23-bc08-6fa5de9792e4.png)
-![IMG_8141](https://user-images.githubusercontent.com/61547778/151236436-f24c8952-0aa2-4d5d-b50d-c8c41a23fa8d.png)
 
+![IMG_8145](https://user-images.githubusercontent.com/61547778/151236653-449615b1-26fd-4f13-bbb5-71119eac7d1c.png)
+![IMG_8144](https://user-images.githubusercontent.com/61547778/151236661-1961d850-4982-4e5b-b538-73f50808b32d.png)
+![IMG_8143](https://user-images.githubusercontent.com/61547778/151236663-4a650943-3f59-4451-9bb8-de86a15ca51c.png)
+![IMG_8142](https://user-images.githubusercontent.com/61547778/151236667-8985f00e-0441-44e5-9857-a276e53d21e2.png)
+![IMG_8141](https://user-images.githubusercontent.com/61547778/151236669-ebf8ed02-6173-4b71-8c2c-62387a6378d9.png)
 
