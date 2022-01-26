@@ -180,4 +180,14 @@ const styles = StyleSheet.create({
     marginRight: 15,
   },
 });
+
+## 앱 화면 
+
 ```
+![IMG_8145](https://user-images.githubusercontent.com/61547778/151235570-ed2a625a-e25d-455a-b55c-fc7fd349448c.PNG)
+![IMG_8141](https://user-images.githubusercontent.com/61547778/151235586-39a259aa-06d3-46f1-880d-7a397c2448f6.PNG)
+![IMG_8144](https://user-images.githubusercontent.com/61547778/151235590-3f2d5583-f8c5-4c3d-b4d3-345957158048.PNG)
+![IMG_8143](https://user-images.githubusercontent.com/61547778/151235594-262fe381-8a09-41ee-bb7a-f3f87a209a1f.PNG)
+![IMG_8142](https://user-images.githubusercontent.com/61547778/151235598-a8641cfb-f079-4ef0-ae62-33ebba50dafb.PNG)
+
+
